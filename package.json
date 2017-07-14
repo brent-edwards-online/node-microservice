@@ -1,0 +1,24 @@
+{
+  "name": "node-microservice",
+  "version": "1.0.0",
+  "description": "Node Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brent-edwards-online/node-microservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brent-edwards-online/node-microservice/issues"
+  },
+  "homepage": "https://github.com/brent-edwards-online/node-microservice#readme",
+  "dependencies": {
+    "micro": "^7.3.3"
+  }
+}
