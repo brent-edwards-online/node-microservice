@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/brent-edwards-online/node-microservice#readme",
   "dependencies": {
-    "micro": "^7.3.3"
+    "level": "^1.7.0",
+    "micro": "^7.3.3",
+    "then-levelup": "^1.0.2"
   }
 }
